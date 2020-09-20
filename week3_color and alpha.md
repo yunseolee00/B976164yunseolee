@@ -37,7 +37,7 @@ C=cyan M=magenta Y=yellow K=black
 
 
 
-H/S/L
+H/S/V
 ======
 
 
