@@ -2,7 +2,7 @@ Digital 2D compositing week3 assignment
 =======================================
 RGB
 ----
-![alt](https://images.app.goo.gl/7tBhFoS8ULfbAUqPA)
+![alt](C:\Users\Andy\Desktop\Digital_2D_compositing_B976164yunseolee)
 R=red  G=green  B=blue
 R+G+B= white
 <hr/>
