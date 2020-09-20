@@ -109,6 +109,7 @@ white, black에 가까운 정도를 정한다.
 
 
 ![05 1](https://user-images.githubusercontent.com/70967822/93713450-ef7f8780-fb96-11ea-996d-3d0b7c5bd3a6.jpg)
+![common8WC9U63H](https://user-images.githubusercontent.com/70967822/93714416-6ae43780-fb9d-11ea-8fc5-993def02b82e.jpg)
 
 
 
