@@ -1,3 +1,4 @@
 # B976164yunseolee
-# hONGIK UNIVERCITY
+# Hongik university
+
 #21 years old
