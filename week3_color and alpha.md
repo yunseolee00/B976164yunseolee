@@ -251,3 +251,15 @@ JPG: 데이터를 손실압축하면서 화상으로 바꾼 이미지
 
 
 
+
+Why photoshop shows transparency as gray and white cheakers???
+---------------------------------------------------------------
+
+
+
+회색, 하양, 검정으로 분류한 이유는 무채색은 전세계적으로 사용되는 글자,이미지의 색상이기 때문에 사용된것이다. 특별한 의미는 없다. 하지만 합성과정에서 무책색이 오히러 분류가 힘들어질 경우 융통성 있게 색설정을 바꿔야 한다.
+
+
+
+>The edges of characters and other images with transparent background should not have shades of gray: these are normally used for intermediate colors between the color of the letter/image and that of the background, typically shades of gray being intermediate between a black letter and a white background. However, with, for example, a red background the intermediate colors would be dark red. Gray edge pixels would give an ugly and unclear result. For a variable background color there are no suitable fixed intermediate colors. 
+[참고문헌](https://en.wikipedia.org/wiki/Transparency_(graphic))
