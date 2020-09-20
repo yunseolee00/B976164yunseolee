@@ -179,3 +179,10 @@ BIT references
 
 ![commonALZL5OFL](https://user-images.githubusercontent.com/70967822/93714063-10e27280-fb9b-11ea-92fe-b5209ee78641.jpg)
 
+
+
+RAW: 압축 이전의 원본, 용량이 크다
+
+
+
+JPG: 데이터를 손실압축하면서 화상으로 바꾼 이미지
