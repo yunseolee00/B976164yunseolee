@@ -143,3 +143,9 @@ white, black에 가까운 정도를 정한다.
 
 [참고문헌](https://namu.wiki/w/RGB)
 
+
+
+
+
+![Batman_8Bit_1stEdition_FINAL_v2_55fb5536247e19 25064732 1](https://user-images.githubusercontent.com/70967822/93713702-8731a580-fb98-11ea-89c8-3af7ee3a4069.gif)
+**8bit**
