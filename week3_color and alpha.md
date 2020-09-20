@@ -1,5 +1,11 @@
 Digital 2D compositing week3 assignment
 =======================================
+
+
+
+
+
+
 <hr/>
 1.About digital color
 
@@ -44,6 +50,6 @@ H/S/V
 
 
 
-
+![HSV-color-space-Hue-saturation-value 1](https://user-images.githubusercontent.com/70967822/93712883-85191800-fb93-11ea-95da-f4a89e80ff1f.png)
 
 
