@@ -231,4 +231,7 @@ JPG: 데이터를 손실압축하면서 화상으로 바꾼 이미지
 
 >알파 채널(영어: alpha channel) 또는 알파 합성(영어: alpha compositing)은 α 채널과 이미지 처리 분야에 있고, 각 화소에 대해 색상 표현의 데이터로부터 분리한 보조 데이터를 일컫는다. [출처}(https://ko.wikipedia.org/wiki/알파_채널)
 
+
+
+
 ![99C8A5495C0FD14314 1](https://user-images.githubusercontent.com/70967822/93715147-75550000-fba2-11ea-950b-e2e79b3a27de.png)
