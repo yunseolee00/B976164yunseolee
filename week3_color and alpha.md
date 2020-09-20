@@ -4,5 +4,8 @@ RGB
 ----
 ![alt](C:\Users\Andy\Desktop\Digital_2D_compositing_B976164yunseolee)
 R=red  G=green  B=blue
+
+
+
 R+G+B= white
 <hr/>
