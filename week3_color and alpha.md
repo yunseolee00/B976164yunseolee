@@ -152,3 +152,11 @@ white, black에 가까운 정도를 정한다.
 
 
 **8bit**
+
+
+
+![common8L2SP5NV](https://user-images.githubusercontent.com/70967822/93713814-5a31c280-fb99-11ea-8447-0bc3bb2efc8a.jpg)
+
+
+
+**16BIT**
