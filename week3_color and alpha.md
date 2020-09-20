@@ -262,4 +262,4 @@ Why photoshop shows transparency as gray and white cheakers???
 
 
 >The edges of characters and other images with transparent background should not have shades of gray: these are normally used for intermediate colors between the color of the letter/image and that of the background, typically shades of gray being intermediate between a black letter and a white background. However, with, for example, a red background the intermediate colors would be dark red. Gray edge pixels would give an ugly and unclear result. For a variable background color there are no suitable fixed intermediate colors. 
-[](https://en.wikipedia.org/wiki/Transparency_(graphic))
+[위키백과](https://en.wikipedia.org/wiki/Transparency_(graphic))
