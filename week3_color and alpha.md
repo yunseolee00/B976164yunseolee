@@ -38,7 +38,7 @@ C=cyan M=magenta Y=yellow K=black
 
 
 
->     > 이 두 색이론은 서로 대조가 되기 때문에 그래서 RGB는 **가법혼색(additive mixing), CMYK는 감법혼색(subtract mixing)이라고 부른다.**
+>     > 이 두 색이론은 서로 대조가 되기 때문에 그래서 RGB는 가법혼색(additive mixing), CMYK는 감법혼색(subtract mixing)이라고 부른다.
 
 
 ![commonNGUEHMZN](https://user-images.githubusercontent.com/70967822/93712471-120ea200-fb91-11ea-8c74-ebe68cef982e.jpg)
@@ -165,3 +165,11 @@ BIT references
 
 
 **16BIT**
+
+
+
+3.RAW and JPG
+==============
+
+
+
