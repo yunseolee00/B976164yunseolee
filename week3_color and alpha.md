@@ -67,3 +67,7 @@ H/S/V
 ![HSV-color-space-Hue-saturation-value 1](https://user-images.githubusercontent.com/70967822/93712883-85191800-fb93-11ea-95da-f4a89e80ff1f.png)
 
 
+
+H=hue(색조)
+S=saturation(채도)
+V=Value(명도)
