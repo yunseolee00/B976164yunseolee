@@ -8,7 +8,7 @@ Digital 2D compositing week3 assignment
 
 <hr/>
 1.About digital color
-
+=====================
 
 
 
