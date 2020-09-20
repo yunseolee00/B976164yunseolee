@@ -93,3 +93,15 @@ V=Value(명도)
 
 
 white, black에 가까운 정도를 정한다.
+
+
+
+<hr/>
+
+BIT
+====
+
+
+
+![05 1](https://user-images.githubusercontent.com/70967822/93713450-ef7f8780-fb96-11ea-996d-3d0b7c5bd3a6.jpg)
+
