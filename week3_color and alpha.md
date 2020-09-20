@@ -212,3 +212,21 @@ JPG: 데이터를 손실압축하면서 화상으로 바꾼 이미지
 
 
 >integer (정수) (0,1,2,3...)
+
+
+
+<hr/>
+
+
+
+5.ALPHA channel
+===============
+
+
+
+
+![image](https://user-images.githubusercontent.com/70967822/93714808-01195d00-fba0-11ea-80b6-90160e572cd9.png)
+
+
+
+
