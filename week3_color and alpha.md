@@ -1,6 +1,8 @@
 Digital 2D compositing week3 assignment
 =======================================
-
-![Alt text](/path/to/img.jpg)
-
+RGB
+----
+C:\Users\Andy\Desktop
+R=red  G=green  B=blue
+R+G+B= white
 -------------------------------------------------------------
