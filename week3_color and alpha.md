@@ -23,4 +23,5 @@ C=cyan M=magenta Y=yellow K=black
 
 
 
+![commonNGUEHMZN](https://user-images.githubusercontent.com/70967822/93712471-120ea200-fb91-11ea-8c74-ebe68cef982e.jpg)
 <hr/>
