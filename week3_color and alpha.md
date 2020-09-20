@@ -98,6 +98,9 @@ white, black에 가까운 정도를 정한다.
 
 <hr/>
 
+
+
+
 2. WHat is BIT?
 ====
 
