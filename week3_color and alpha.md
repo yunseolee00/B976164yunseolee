@@ -168,6 +168,10 @@ BIT references
 
 
 
+<hr/>
+
+
+
 3.RAW and JPG
 ==============
 
