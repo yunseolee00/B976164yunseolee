@@ -16,4 +16,9 @@ R+G+B= white
 CMYK
 -----
 C=cyan M=magenta Y=yellow K=black
+
+
+
+>RGB는 빛의 삼원색으로 모니터, 조명에 관해 쓰인다.  CMYK는 주로 프린터, 인쇄에 쓰이는 색으로 색이 섞이면 섞일수록 RGB와는 반대로 어두워진다.
+
 <hr/>
