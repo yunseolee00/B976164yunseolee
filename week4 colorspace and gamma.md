@@ -39,6 +39,8 @@ Look Up table(LUT)는 색상, 채도, 조도를 수학적으로 정확하게 조
 What is Logspace and what is main difference with sRGB, why and when we use?
 ========================================================================
 
+LOG는 log함수를 이용하여 bit depth에 DR(dynamic range)와 gradation을 저장하는 방식이다.  SRGB보다 효율성있게 적은 용량으로 저장할수 있다.
+------------------------------------
 
 
 ![Log-Curve 1](https://user-images.githubusercontent.com/70967822/94343683-bfcbf600-0054-11eb-90e4-ec6771724042.jpg)
