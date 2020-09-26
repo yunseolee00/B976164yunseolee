@@ -41,6 +41,9 @@ What is Logspace and what is main difference with sRGB, why and when we use?
 
 
 
+로그 색상 곡선을 사용하는 가장 큰 이유는 카메라 센서(또는 필름 음극)에서 가장 역동적인 정보 범위를 유지하는 방법이다. 카메라가 보는 것을 로그로 인코딩해 이미지 노출(정지 측정)과 기록된 이미지 사이의 상관관계가 더 넓은 범위에서 완전히 일정하다는 의미다. 사람의 눈이나 비디오 화면을 위해 특별히 캡처하기보다는 최대한 많은 데이터를 저장하기 때문에 표준 영상 곡선보다 센서 정보를 더 많이 활용한다. 이것은 생산 후 작업할 수 있는 훨씬 더 많은 컬러 데이터를 제공한다.
+
+
 [참고문헌](https://www.artstation.com/tiberius-viris/blog/3ZBO/color-space-management-srgb-linear-and-log)
 
 
