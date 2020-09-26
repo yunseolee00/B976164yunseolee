@@ -19,7 +19,7 @@ What is LUT(look up table)???
 
 
 
-
+1D LUT는 커브곡선이나 커브를 움직이는 보정값과 1:1로 매치된다. 그리고 rgb 역시 3개의 채널별로 LUT를 만든다. lift, gamma, gain, curve는 모두 R, G, B 채널별로 값을 보정할수 있고, 이 보정된 값은 1D LUT에 그대로 적용된다.
 
 
 3D LUT
