@@ -38,3 +38,7 @@ Look Up table(LUT)는 색상, 채도, 조도를 수학적으로 정확하게 조
 
 What is Logspace and what is main difference with sRGB, why and when we use?
 ========================================================================
+
+
+
+[참고문헌](https://www.artstation.com/tiberius-viris/blog/3ZBO/color-space-management-srgb-linear-and-log)
