@@ -42,4 +42,7 @@ What is Logspace and what is main difference with sRGB, why and when we use?
 
 
 [참고문헌](https://www.artstation.com/tiberius-viris/blog/3ZBO/color-space-management-srgb-linear-and-log)
+
+
+
 [참고문헌2](https://www.rocketstock.com/blog/tips-for-log-color-space-compositing/)
