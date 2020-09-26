@@ -48,6 +48,11 @@ LOG 색상 곡선을 사용하는 가장 큰 이유는 카메라 센서(또는 �
 
 
 
+
+![LogWorkflow_Featured-1000x576 1](https://user-images.githubusercontent.com/70967822/94343729-205b3300-0055-11eb-840c-cdbdbda519bf.jpg)
+
+
+
 [참고문헌](https://www.artstation.com/tiberius-viris/blog/3ZBO/color-space-management-srgb-linear-and-log)
 
 
