@@ -8,6 +8,10 @@ Look Up table(LUT)는 색상, 채도, 조도를 수학적으로 정확하게 조
 
 
 
+>인터넷상에는 많은 LUT 샘플들이 생겨서 손쉽게 색보정 정보를 찾아 입력할수 있다.
+
+
+
 ![luts-example 1](https://user-images.githubusercontent.com/70967822/94342839-e8e98800-004e-11eb-9f64-d12f2f92c31d.jpg)
 
 
