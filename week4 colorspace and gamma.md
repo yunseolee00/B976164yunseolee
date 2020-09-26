@@ -13,6 +13,15 @@ What is LUT(look up table)???
 
 
 
+1D LUT
+======
+![R800x0 1](https://user-images.githubusercontent.com/70967822/94342878-3e259980-004f-11eb-9d7c-892705fbb2e8.png)
+
+
+
+
+
+
 3D LUT
 ======
 ![Cube-o-Scope-1 1](https://user-images.githubusercontent.com/70967822/94342643-52689700-004d-11eb-9d01-afdc66a020c6.png)
