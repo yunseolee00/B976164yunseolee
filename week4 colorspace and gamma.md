@@ -19,6 +19,8 @@ color space(색공간)
 
 
 
+![KakaoTalk_20200927_145208941](https://user-images.githubusercontent.com/70967822/94362483-91065c00-00f6-11eb-8b9a-69784675f484.png)
+
 
 
 
