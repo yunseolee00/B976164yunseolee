@@ -96,6 +96,30 @@ YUV는 빛의 밝기를 나타내는 휘도(Y) 신호와 색상신호 2개(U,V)�
 
 
 
+-------------------------------------------------------------------------------------
+
+
+
+Gamma, Linear workflow
+=====================
+
+
+
+Linear 은 실제색을 표현하는 반면 GAMMA는 실제색보다는 사람이 자연스럽다고 느끼는 색을 만들어낸다. Linear은 선형적인 이라는 뜻인데 그래프 처럼 왜곡되지 않은 색이다.
+(sRGB는 표준감마 공간 뜻한다)
+
+
+
+![LinearRendering-LightingSphereLinearGamma 1](https://user-images.githubusercontent.com/70967822/94363498-771c4780-00fd-11eb-8d7e-40632ebbe400.png)
+
+
+
+
+![imageU09WNNS3](https://user-images.githubusercontent.com/70967822/94363677-d2026e80-00fe-11eb-9a1c-fdf5736c505c.png)
+
+
+
+![LinearRendering-LightingSphereLinearGamma 1](https://user-images.githubusercontent.com/70967822/94363308-5bfd0800-00fc-11eb-9edc-8cc0cd1155be.png)
 
 ---------------------------------------------------------------------------------
 
