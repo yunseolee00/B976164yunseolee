@@ -66,6 +66,14 @@ YCbCr
 RGB vs YUV
 ==========
 
+![KakaoTalk_20200927_145209060](https://user-images.githubusercontent.com/70967822/94362863-20147380-00f9-11eb-9ff8-17f7ba3ee7fd.jpg)
+
+
+•RGB는 Red, Green, Blue 빛의 3가지 속성으로 영상을 표현하는 
+방식을 말합니다. 일반적으로 PC의 모니터 등에서 많이 사용됩니
+다. RGB 방식에서 흑백을 표현하기 위해서는 R=G=B 3개의 채널 
+값이 동일하면 흑백으로 표현됩니다. (빛의 가산 혼합)
+
 
 
 
