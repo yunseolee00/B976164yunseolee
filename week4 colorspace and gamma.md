@@ -120,6 +120,19 @@ Linear 은 실제색을 표현하는 반면 GAMMA는 실제색보다는 사람�
 
 
 
+![yest359 1](https://user-images.githubusercontent.com/70967822/94363785-adf35d00-00ff-11eb-8816-31abf01ca855.png)
+
+
+
+* Real World → Gamma 1
+* sRGB Image (8 bit) → Gamma 0.45
+* Float Image (32 bit) → Gamma 1
+* Monitor → Gamma 2.2
+
+
+[참고문헌](https://forum.reallusion.com/308094/1-PBR-Linear-Workflow)
+
+
 ---------------------------------------------------------------------------------
 
 
