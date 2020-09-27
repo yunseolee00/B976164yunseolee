@@ -119,7 +119,6 @@ Linear 은 실제색을 표현하는 반면 GAMMA는 실제색보다는 사람�
 
 
 
-![LinearRendering-LightingSphereLinearGamma 1](https://user-images.githubusercontent.com/70967822/94363308-5bfd0800-00fc-11eb-9edc-8cc0cd1155be.png)
 
 ---------------------------------------------------------------------------------
 
