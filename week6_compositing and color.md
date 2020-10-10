@@ -20,12 +20,18 @@ center composition
 
 ---------------------------------
 
+
+
 Rule of third
 --------------
 ![003a6ad47300382309ff922a8c0a34ac 1](https://user-images.githubusercontent.com/70967822/95659591-034a5800-0b5d-11eb-98cc-273bcc4c54eb.png)
 
 
 3등분의 법칙(Rule of third)으로 가로, 세로 각각 3등분을 하고 피사체를 두 줄이 겹치는 교차점에 집어 넣는 방법이다. 주로 드라마, 영화의 인물들을 집어넣는 전통적인 기법이다.
+
+
+---------------------------------------------
+
 
 
 Framing
@@ -38,10 +44,17 @@ Framing
 
 
 
+--------------------------------------------------------------
+
+
 
 Lines and shape
 --------------
 ![geometric-shots-requieum-for-a-dream 1](https://user-images.githubusercontent.com/70967822/95659665-866bae00-0b5d-11eb-928f-c5fc6919e646.png)
+
+
+
+-----------------------------------------------
 
 
 
@@ -50,6 +63,9 @@ Circle
 ------
 ![geometricshots_thefifthelement 1](https://user-images.githubusercontent.com/70967822/95659601-1b21dc00-0b5d-11eb-87cf-f5b6717f86c8.jpg)
 
+
+
+---------------------------------------------------
 
 
 
@@ -61,11 +77,19 @@ Depth
 
 선예도 대비를 이용하여 치사체에 집중시키는 방법이다. 
 
+
+---------------------------------------------------
+
+
+
 Overlap
 --------
 ![geometricshots_skyfall 1](https://user-images.githubusercontent.com/70967822/95659608-28d76180-0b5d-11eb-9a57-01d93135c8bc.jpg)
 
 
+
+
+-------------------------------------------------
 
 
 
