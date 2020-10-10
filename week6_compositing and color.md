@@ -9,10 +9,16 @@ center composition
 
 
 
->>> 정중앙에 주제물을 두는 구도이다. 주제물을 관객에게 과감하게 표현하는 방법이며 인물일 경우 인물의 과감한 성격, 지위를 표현하기위해 쓰인다.
+
 
 ![geometrticshots_thewolfofwallstreet 1](https://user-images.githubusercontent.com/70967822/95659584-f594d280-0b5c-11eb-9882-4218e68bcce4.jpg)
 
+
+
+>>> 정중앙에 주제물을 두는 구도이다. 주제물을 관객에게 과감하게 표현하는 방법이며 인물일 경우 인물의 과감한 성격, 지위를 표현하기위해 쓰인다.
+
+
+---------------------------------
 
 Rule of third
 --------------
