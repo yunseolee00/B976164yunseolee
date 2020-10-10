@@ -1,17 +1,42 @@
+Compositional theory
+==================
+
+
+
+center composition
+-----------------
+
+
+
+Rule of third
+--------------
 
 
 
 
 
 
+Framing
+---------
 
 
 
+Lines and shape
+--------------
 
 
 
+Circle
+------
 
 
+
+Square
+------
+
+
+Overlap
+--------
 
 
 
@@ -19,7 +44,12 @@
 
 
 Gamut mask and color wheel
----------------------------
+==========================
+
+
+
+Gamut mask
+-----------
 
 
 
@@ -32,6 +62,7 @@ Gamut mask and color wheel
 
 
 
-
+Color wheel
+-------------
 
 ![300px-MunsellColorWheel svg 1](https://user-images.githubusercontent.com/70967822/95659248-aea5dd80-0b5a-11eb-80dd-23acf52e96bc.png)
